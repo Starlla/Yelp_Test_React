@@ -1,6 +1,6 @@
 # Yelp_Test_React
 * This app followed Udemy class The Complete React Native + Hooks Course [2020 Edition]
-* This app use yelp api to display restaurants based on location search results and grouped by price. 
+* This app uses yelp api to display restaurants based on location search results and grouped by price. 
 * Add a yelp.js file into api folder with the following code. Replace YourKey with your API key from yelp:
 
 import axios from 'axios';
