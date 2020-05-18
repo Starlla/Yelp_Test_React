@@ -7,7 +7,7 @@ const ResultsList = ({title, results, navigation}) => {
     if(!results.length){
         return null;
     }
-
+//Display Title and Image Scroll
     return <View style={styles.container}>
         <Text style={styles.title}> {title} </Text>
         <FlatList
